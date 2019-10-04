@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="worldClock">World Clock</string>
+    <string name="pictures">pictures</string>
+    <string name="button">Button</string>
+    <string name="refresh">Refresh</string>
+    <string name="twelvehourtime">12 Hour Time</string>
+    <string name="twentyfourhourtime">24 Hour Time</string>
+</resources>
